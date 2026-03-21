@@ -6,7 +6,7 @@ venv/
 
 # Data 
 data/raw/
-data/processed/
+#data/processed/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
